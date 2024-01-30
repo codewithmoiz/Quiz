@@ -16,7 +16,8 @@ html,body{
     /* background-color: #92BDA3; */
     /* background-color: rgb(214, 54, 107); */
     /* background-color: #CBEEF3; */
-    background-color: #D0A5C0;
+    /* background-color: #D0A5C0; */
+    background-color: purple;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,7 +38,8 @@ html,body{
     /* background-color: rgb(177, 97, 241); */
     /* background-color: #73877B; */
     /* background-color: #B2CEDE; */
-    background-color: #F6C0D0;
+    /* background-color: #F6C0D0; */
+    background-color: #FFC300;
     /* border-radius: 50%; */
     border-radius: 14px;
     display: flex;
@@ -63,7 +65,8 @@ html,body{
     /* background-color: rgb(177, 97, 241); */
     /* background-color: #73877B; */
     /* background-color: #fff; */
-    background-color: #F6C0D0;
+    /* background-color: #F6C0D0; */
+    background-color: #FFC300;
     /* color: rgb(170, 16, 67); */
     /* color: #485665; */
     color: #000;
@@ -87,7 +90,8 @@ html,body{
 }
 .container>button{
     font-size: 18px;
-    background-color: #F6C0D0;
+    /* background-color: #F6C0D0; */
+    background-color: #FFC300;
     /* color: #485665; */
     color: #000;
     border-radius: 14px;
